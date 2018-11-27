@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commands", "Commands\Commands.csproj", "{BABEBDF6-463B-49CB-B76F-9913764B614C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{C15E1851-B355-4022-9C93-EF5E9A81EE40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWeb", "ClientWeb\ClientWeb.csproj", "{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FE7929DA-353C-44A3-84CD-F444CB151A28}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Debug|x64.Build.0 = Debug|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Debug|x86.Build.0 = Debug|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Release|x64.ActiveCfg = Release|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Release|x64.Build.0 = Release|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Release|x86.ActiveCfg = Release|Any CPU
+		{BABEBDF6-463B-49CB-B76F-9913764B614C}.Release|x86.Build.0 = Release|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Debug|x64.Build.0 = Debug|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Debug|x86.Build.0 = Debug|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Release|x64.ActiveCfg = Release|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Release|x64.Build.0 = Release|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Release|x86.ActiveCfg = Release|Any CPU
+		{C15E1851-B355-4022-9C93-EF5E9A81EE40}.Release|x86.Build.0 = Release|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Debug|x64.Build.0 = Debug|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Debug|x86.Build.0 = Debug|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Release|x64.ActiveCfg = Release|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Release|x64.Build.0 = Release|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Release|x86.ActiveCfg = Release|Any CPU
+		{DB6DCBA2-F3E8-4B6A-81B6-676E07604ED1}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128D0F8A-25E5-416A-94C2-675D462BAE9D}
+	EndGlobalSection
+EndGlobal
